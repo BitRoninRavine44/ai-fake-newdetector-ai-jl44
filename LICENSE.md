@@ -1,4 +1,4 @@
-# 
+# Turbo AI Fake News Detector plugins. Com segurança de IA e análise de sentimentos — otimizado para máximo desempenho.
 
 
 
